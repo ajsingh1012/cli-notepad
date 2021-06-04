@@ -1,9 +1,12 @@
 {
-  "name": "notepad-cli",
-  "version": "1.0.0",
+  "name": "cli-notepad",
+  "version": "1.0.2",
   "description": "A CLI-based notepad application.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "note": "node index.js write",
+    "read": "node index.js read",
     "test": "npm test"
   },
   "repository": {
