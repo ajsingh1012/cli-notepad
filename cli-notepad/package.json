@@ -1,6 +1,6 @@
 {
   "name": "cli-notepad",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "A CLI-based notepad application.",
   "main": "index.js",
   "scripts": {
