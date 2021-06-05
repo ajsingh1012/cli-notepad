@@ -1,3 +1,5 @@
+# Welcome to Notepad Heaven
+
 A simple CLI-based notepad application.
 Note: This has only been tested on Windows thus far.
 
