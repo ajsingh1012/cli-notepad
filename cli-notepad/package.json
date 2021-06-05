@@ -1,6 +1,6 @@
 {
   "name": "@ajsingh1012/cli-notepad",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A CLI-based notepad application.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ajsingh1012/notepad-cli.git",
+    "url": "https://github.com/ajsingh1012/cli-notepad.git",
     "directory": "cli-notepad"
   },
   "keywords": [
@@ -20,11 +20,8 @@
   ],
   "author": "Aneeljyot Alagh",
   "license": "ISC",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "bugs": {
-    "url": "https://github.com/ajsingh1012/notepad-cli/issues"
+    "url": "https://github.com/ajsingh1012/cli-notepad/issues"
   },
-  "homepage": "https://github.com/ajsingh1012/notepad-cli#readme"
+  "homepage": "https://github.com/ajsingh1012/cli-notepad#readme"
 }
