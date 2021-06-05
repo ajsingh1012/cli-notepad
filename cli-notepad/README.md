@@ -8,14 +8,14 @@ Note: This has only been tested on Windows thus far.
 Note: [npm](https://www.npmjs.com/get-npm) is required for this package.
 To install, run the following command.
 ```cmd
-npm install cli-notepad
+npm i @ajsingh1012/cli-notepad
 ```
 
 ## Usage
 
 Once the package is installed, make sure you are in the correct directory.
 ```cmd
-cd node_modules/cli-notepad
+cd node_modules/@ajsingh1012/cli-notepad
 ```
 
 To add a note, use the following command:
